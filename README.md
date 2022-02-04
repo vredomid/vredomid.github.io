@@ -1,1 +1,1 @@
-# vredomid.github.io
+# Laravel 7 + VUEJS
